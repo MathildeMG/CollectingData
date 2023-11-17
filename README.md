@@ -2,7 +2,7 @@
 
 **_Creator Information_**
 
-The creator of this Dataset is Siddharth Chandra, professor at Michigan State University. His research interests focus on behavior and policy regarding addictive substances in relation to, among other, the history of Asia. The source of this dataset is the Opium reports named _Opium en zoutregie. Verslag betreffende de Opium- en Zoutregie en de Zoutwinning. Batavia, Landsdrukkerij_.
+The creator of this Dataset is Siddharth Chandra, professor at Michigan State University. His research interests focus on behavior and policy regarding addictive substances in relation to, among other, the history of Asia. The source of this dataset is the Opium reports named _Opium en zoutregie. Verslag betreffende de Opium- en Zoutregie en de Zoutwinning. Batavia, Landsdrukkerij_. The dataset consists of a Datakey file and the actual database.
 
 **_Description Table_**
 
